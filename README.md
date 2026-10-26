@@ -20,9 +20,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,vite,git,github,vercel" alt="Tech stack" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
-</p>
 
 ## 🌟 Featured Projects
 - 🚗 **[Car Haven](https://car-haven-sandy.vercel.app)**: a car listings app with detail pages, loading states and a hosted API. Built with React, Tailwind CSS and React Router. [Code](https://github.com/IbnAbass1401/Car-Haven) · [API](https://github.com/IbnAbass1401/car-haven-api)
