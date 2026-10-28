@@ -1,4 +1,4 @@
-# Hi, Abass A.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1E3D,100:2563EB&height=180&section=header&text=Hi%2C%20Abass%20A.&fontSize=42&fontColor=F5FAFF" alt="Hi, Abass A." width="100%" />
 
 **Full-stack developer, building towards software engineering.**
 
@@ -10,7 +10,7 @@ I build web apps from the database to the interface: REST APIs with Node and Exp
 
 - I learn by building and shipping real projects, from the database to deployment.
 - I care about clean, responsive interfaces that work as well on a phone as on a laptop.
-- Open to internships and full-stack or frontend opportunities.
+- Open to internships and software engineering opportunities (full-stack, frontend or backend).
 
 ---
 
@@ -18,31 +18,19 @@ I build web apps from the database to the interface: REST APIs with Node and Exp
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,threejs" alt="Frontend stack" />
 
 **Backend and database**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database stack" />
+
+Also: Mongoose, JWT
 
 **Tools and deployment**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+<img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Tools and deployment" />
+
+Also: Axios, Render
 
 ---
 
@@ -67,7 +55,6 @@ A car listings app with detail pages, loading states and a hosted API.
 ### [SiteBatch](https://github.com/IbnAbass1401/SiteBatch)
 
 A batching assistant for tracking mix ratios, bucket counts and batch progress, with built-in calculators.
-
 
 ---
 
