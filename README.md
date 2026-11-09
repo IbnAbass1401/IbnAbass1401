@@ -2,7 +2,7 @@
 
 **Full-stack developer, building towards software engineering.**
 
-I build web apps from the database to the interface: REST APIs with Node and Express, data in MongoDB, and responsive React frontends. I'm always learning in public and shipping projects.
+I build web apps from the database to the interface: REST APIs with Node and Express, data in MongoDB, and responsive React and Next.js frontends. I'm always learning in public and shipping projects.
 
 ---
 
@@ -10,6 +10,7 @@ I build web apps from the database to the interface: REST APIs with Node and Exp
 
 - I learn by building and shipping real projects, from the database to deployment.
 - I care about clean, responsive interfaces that work as well on a phone as on a laptop.
+- Built Ember, a production-ready e-commerce store with Paystack payments, and SchoolBridge for the Blaaiz Buildathon (GDG Ilorin x Blaaiz).
 - Open to internships and software engineering opportunities (full-stack, frontend or backend).
 
 ---
@@ -20,21 +21,39 @@ I build web apps from the database to the interface: REST APIs with Node and Exp
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,threejs" alt="Frontend stack" />
 
+Also: Framer Motion, Zustand, React Router
+
 **Backend and database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database stack" />
 
-Also: Mongoose, JWT
+Also: Mongoose, JWT, Zod
 
 **Tools and deployment**
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel" alt="Tools and deployment" />
 
-Also: Axios, Render
+Also: Axios, Render, Cloudinary, Paystack
 
 ---
 
 ## Featured projects
+
+### [Ember](https://github.com/IbnAbass1401/Ember-menswear)
+
+A production-ready men's fashion store with search and filters, persistent cart, server-validated checkout, Paystack payments (verified on return and by signed webhook), order tracking and a full admin area with Cloudinary image uploads.
+
+**Stack:** Next.js, TypeScript, Tailwind CSS, Express, MongoDB, Paystack, Cloudinary
+
+**Live:** [ember-menswear.vercel.app](https://ember-menswear.vercel.app)
+
+### [SchoolBridge](https://github.com/IbnAbass1401/SchoolBridge)
+
+Pay your child's school fees abroad, from Nigeria. A parent pays in naira and gets a ticket code, the student verifies it with their own account and receives a printable receipt. Built for the Blaaiz Buildathon (GDG Ilorin x Blaaiz).
+
+**Stack:** Next.js, TypeScript, Tailwind CSS, Express, MongoDB, JWT
+
+**Live:** [schoolbridge-vit.vercel.app](https://schoolbridge-vit.vercel.app)
 
 ### [Taskflow](https://github.com/IbnAbass1401/Taskflow)
 
@@ -46,15 +65,11 @@ A full-stack task management app built with the MERN stack. Users register, log 
 
 ### [Car Haven](https://github.com/IbnAbass1401/Car-Haven)
 
-A car listings app with detail pages, loading states and a hosted API.
+A dark-themed car listings app where you can browse, add (with photo upload), edit and delete listings, with toasts, loading states and a hosted API.
 
-**Stack:** React, Tailwind CSS, React Router
+**Stack:** React, Vite, React Router, Tailwind CSS
 
 **Live:** [car-haven-sandy.vercel.app](https://car-haven-sandy.vercel.app) · **API:** [car-haven-api](https://github.com/IbnAbass1401/car-haven-api)
-
-### [SiteBatch](https://github.com/IbnAbass1401/SiteBatch)
-
-A batching assistant for tracking mix ratios, bucket counts and batch progress, with built-in calculators.
 
 ---
 
@@ -62,4 +77,4 @@ A batching assistant for tracking mix ratios, bucket counts and batch progress, 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abass1401)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tan_codez)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://al-ameenabass.vercel.app)
